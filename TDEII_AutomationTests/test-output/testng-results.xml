@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="2" failed="0" total="18" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="241897" started-at="2014-11-18T16:10:35Z" finished-at="2014-11-18T16:14:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="241897" started-at="2014-11-18T16:10:35Z" finished-at="2014-11-18T16:14:37Z">
+      <class name="Test.JobTests1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="17775" started-at="2014-11-18T18:10:35Z" finished-at="2014-11-18T18:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="7614" started-at="2014-11-18T18:10:53Z" data-provider="dp" finished-at="2014-11-18T18:11:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FullyAutomatedSmokeTest]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360SmokeTest]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="17" started-at="2014-11-18T18:11:00Z" finished-at="2014-11-18T18:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="8726" started-at="2014-11-18T18:11:00Z" finished-at="2014-11-18T18:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6324" started-at="2014-11-18T18:11:09Z" data-provider="dp" finished-at="2014-11-18T18:11:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ExplorerScreenPlan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ExplorerScreen]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="17" started-at="2014-11-18T18:11:15Z" finished-at="2014-11-18T18:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7893" started-at="2014-11-18T18:11:16Z" finished-at="2014-11-18T18:11:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6180" started-at="2014-11-18T18:11:23Z" data-provider="dp" finished-at="2014-11-18T18:11:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AccountsVerification]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 AccountsVerification]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="18" started-at="2014-11-18T18:11:30Z" finished-at="2014-11-18T18:11:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="8043" started-at="2014-11-18T18:11:30Z" finished-at="2014-11-18T18:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6341" started-at="2014-11-18T18:11:38Z" data-provider="dp" finished-at="2014-11-18T18:11:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[VocabularyMngr]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="17" started-at="2014-11-18T18:11:44Z" finished-at="2014-11-18T18:11:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7710" started-at="2014-11-18T18:11:44Z" finished-at="2014-11-18T18:11:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6175" started-at="2014-11-18T18:11:52Z" data-provider="dp" finished-at="2014-11-18T18:11:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LoginPlan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="18" started-at="2014-11-18T18:11:58Z" finished-at="2014-11-18T18:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7680" started-at="2014-11-18T18:11:58Z" finished-at="2014-11-18T18:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6032" started-at="2014-11-18T18:12:06Z" data-provider="dp" finished-at="2014-11-18T18:12:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Config]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="18" started-at="2014-11-18T18:12:12Z" finished-at="2014-11-18T18:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7589" started-at="2014-11-18T18:12:12Z" finished-at="2014-11-18T18:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6222" started-at="2014-11-18T18:12:19Z" data-provider="dp" finished-at="2014-11-18T18:12:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[InfrastractureChecks]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="17" started-at="2014-11-18T18:12:25Z" finished-at="2014-11-18T18:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7524" started-at="2014-11-18T18:12:25Z" finished-at="2014-11-18T18:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6258" started-at="2014-11-18T18:12:33Z" data-provider="dp" finished-at="2014-11-18T18:12:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AdminUserVerification]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="17" started-at="2014-11-18T18:12:39Z" finished-at="2014-11-18T18:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7654" started-at="2014-11-18T18:12:39Z" finished-at="2014-11-18T18:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6454" started-at="2014-11-18T18:12:47Z" data-provider="dp" finished-at="2014-11-18T18:12:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Audit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="18" started-at="2014-11-18T18:12:53Z" finished-at="2014-11-18T18:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7668" started-at="2014-11-18T18:12:53Z" finished-at="2014-11-18T18:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6320" started-at="2014-11-18T18:13:01Z" data-provider="dp" finished-at="2014-11-18T18:13:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PhysicianVerification]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="17" started-at="2014-11-18T18:13:07Z" finished-at="2014-11-18T18:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7757" started-at="2014-11-18T18:13:07Z" finished-at="2014-11-18T18:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6249" started-at="2014-11-18T18:13:15Z" data-provider="dp" finished-at="2014-11-18T18:13:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PatientVerification]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="17" started-at="2014-11-18T18:13:21Z" finished-at="2014-11-18T18:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="8251" started-at="2014-11-18T18:13:21Z" finished-at="2014-11-18T18:13:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6159" started-at="2014-11-18T18:13:30Z" data-provider="dp" finished-at="2014-11-18T18:13:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PeerReview]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="17" started-at="2014-11-18T18:13:36Z" finished-at="2014-11-18T18:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7915" started-at="2014-11-18T18:13:36Z" finished-at="2014-11-18T18:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="8749" started-at="2014-11-18T18:13:44Z" data-provider="dp" finished-at="2014-11-18T18:13:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SitePreferences]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="16" started-at="2014-11-18T18:13:53Z" finished-at="2014-11-18T18:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="8164" started-at="2014-11-18T18:13:53Z" finished-at="2014-11-18T18:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6490" started-at="2014-11-18T18:14:01Z" data-provider="dp" finished-at="2014-11-18T18:14:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SpeechFormattingOptions]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="16" started-at="2014-11-18T18:14:07Z" finished-at="2014-11-18T18:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7603" started-at="2014-11-18T18:14:07Z" finished-at="2014-11-18T18:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6713" started-at="2014-11-18T18:14:15Z" data-provider="dp" finished-at="2014-11-18T18:14:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SystemPreferences]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="17" started-at="2014-11-18T18:14:22Z" finished-at="2014-11-18T18:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="7469" started-at="2014-11-18T18:14:22Z" finished-at="2014-11-18T18:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="6660" started-at="2014-11-18T18:14:29Z" data-provider="dp" finished-at="2014-11-18T18:14:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UserPreferences]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="18" started-at="2014-11-18T18:14:36Z" finished-at="2014-11-18T18:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="FAIL" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2014-11-18T18:14:36Z" finished-at="2014-11-18T18:14:36Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+null
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:58'
+System info: host: 'vinw003419', ip: '10.184.89.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_24'
+Driver info: driver.version: FirefoxDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+null
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:58'
+System info: host: 'vinw003419', ip: '10.184.89.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_24'
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:134)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:246)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:114)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:193)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:186)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:182)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:95)
+	at TDE.TDE.TDE(TDE.java:16)
+	at TDE.TDE.<init>(TDE.java:14)
+	at Test.JobTests1.beforeMethod(JobTests1.java:19)
+	at sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:653)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.firefox.UnableToCreateProfileException: java.io.IOException: There is not enough space on the disk
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:58'
+System info: host: 'vinw003419', ip: '10.184.89.181', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_24'
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.FirefoxProfile.layoutOnDisk(FirefoxProfile.java:409)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:89)
+	... 34 more
+Caused by: java.io.IOException: There is not enough space on the disk
+	at sun.nio.ch.FileDispatcher.write0(Native Method)
+	at sun.nio.ch.FileDispatcher.write(Unknown Source)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.write(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.write(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.transferToTrustedChannel(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.transferTo(Unknown Source)
+	at org.openqa.selenium.io.FileHandler.copyFile(FileHandler.java:195)
+	at org.openqa.selenium.io.FileHandler.copy(FileHandler.java:159)
+	at org.openqa.selenium.io.FileHandler.copyDir(FileHandler.java:178)
+	at org.openqa.selenium.io.FileHandler.copy(FileHandler.java:157)
+	at org.openqa.selenium.io.FileHandler.copyDir(FileHandler.java:178)
+	at org.openqa.selenium.io.FileHandler.copy(FileHandler.java:157)
+	at org.openqa.selenium.io.FileHandler.copyDir(FileHandler.java:178)
+	at org.openqa.selenium.io.FileHandler.copy(FileHandler.java:157)
+	at org.openqa.selenium.io.FileHandler.copyDir(FileHandler.java:178)
+	at org.openqa.selenium.io.FileHandler.copy(FileHandler.java:157)
+	at org.openqa.selenium.io.FileHandler.copy(FileHandler.java:144)
+	at org.openqa.selenium.firefox.internal.FileExtension.writeTo(FileExtension.java:71)
+	at org.openqa.selenium.firefox.internal.ClasspathExtension.writeTo(ClasspathExtension.java:63)
+	at org.openqa.selenium.firefox.FirefoxProfile.installExtensions(FirefoxProfile.java:425)
+	at org.openqa.selenium.firefox.FirefoxProfile.layoutOnDisk(FirefoxProfile.java:403)
+	... 35 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="1" started-at="2014-11-18T18:14:37Z" data-provider="dp" finished-at="2014-11-18T18:14:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UserVerification]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="SKIP" signature="beforeMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2014-11-18T18:14:37Z" finished-at="2014-11-18T18:14:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="0" started-at="2014-11-18T18:14:37Z" finished-at="2014-11-18T18:14:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:Test.JobTests1@16dadf9]" name="afterMethod" is-config="true" duration-ms="0" started-at="2014-11-18T18:14:37Z" finished-at="2014-11-18T18:14:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="f(java.lang.Integer, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.JobTests1@16dadf9]" name="f" duration-ms="0" started-at="2014-11-18T18:14:37Z" data-provider="dp" finished-at="2014-11-18T18:14:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WorkflowsTest]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PS360 ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PS360 Trunk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ES 1 VadymS]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ReportEditorScreenSmoke - SmokeReportEditorScreen]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Test.JobTests1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
